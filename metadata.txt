@@ -1,5 +1,5 @@
 stable:
-  factocraft-0.01
+  factocraft-0.02
   keratin-0.01
   
 experemental:
