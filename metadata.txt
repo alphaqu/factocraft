@@ -1,5 +1,5 @@
 stable:
-  factocraft-0.02.jar
+  factocraft-0.03.exe
   keratin-0.01.exe
   
 experemental:
